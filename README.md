@@ -1,4 +1,4 @@
-# ND-VIS-CODE-VFR-UFD-CGA21
+# VFR-UFD: Reconstructing Unsteady Flow Data From Representative Streamlines via Diffusion and Deep-Learning-Based Denoising
 This repository contains the PyTorch implementation for paper "Reconstructing Unsteady Flow Data From Representative Streamlines via Diffusion and Deep-Learning-Based Denoising". 
 
 # Prerequisites
@@ -9,9 +9,7 @@ This repository contains the PyTorch implementation for paper "Reconstructing Un
 * Pytorch >= 1.0
 
 # How to run the code
-* First, change the directory path and parameter settings (e.g., batch size, dimensions of your data etc.). 
-* Second, to train the model, comment line 679 to line 702 and simply call python3 main.py. 
-* Third, to inference the new data, comment line 661 to line 672 and uncomment line 679 to line 702 and simply call python3 main.py.
+First, change the directory path and parameter settings (e.g., batch size, dimensions of your data etc.). Second, to train the model, comment line 679 to line 702 and simply call python3 main.py. Third, to inference the new data, comment line 661 to line 672 and uncomment line 679 to line 702 and simply call python3 main.py.
 
 # Citation
 @article{gu2021reconstructing,
