@@ -14,13 +14,13 @@ This repository contains the PyTorch implementation for paper "Reconstructing Un
 * Third, to inference the new data, comment line 661 to line 672 and uncomment line 679 to line 702 and simply call python3 main.py.
 
 # Citation
-@article{gu2021reconstructing,
-  title={Reconstructing Unsteady Flow Data From Representative Streamlines via Diffusion and Deep-Learning-Based Denoising},
-  author={Gu, Pengfei and Han, Jun and Chen, Danny Z and Wang, Chaoli},
-  journal={IEEE Computer Graphics and Applications},
-  volume={41},
-  number={6},
-  pages={111--121},
-  year={2021},
-  publisher={IEEE}
+@article{gu2021reconstructing,<br/>
+  title={Reconstructing Unsteady Flow Data From Representative Streamlines via Diffusion and Deep-Learning-Based Denoising},<br/>
+  author={Gu, Pengfei and Han, Jun and Chen, Danny Z and Wang, Chaoli},<br/>
+  journal={IEEE Computer Graphics and Applications},<br/>
+  volume={41},<br/>
+  number={6},<br/>
+  pages={111--121},<br/>
+  year={2021},<br/>
+  publisher={IEEE}<br/>
 }
